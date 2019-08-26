@@ -102,3 +102,6 @@ ENV/
 
 #OSX crap
 .DS_Store
+
+#Emacs
+*~
